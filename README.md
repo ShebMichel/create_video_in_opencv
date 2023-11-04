@@ -28,7 +28,7 @@ If you are up to this point of this post, you learned to create a video in OpenC
 
 # Video Result is shown below:
 
-<video width="630" height="300" src="https://github.com/ShebMichel/create_video_in_opencv/video_output.mp4"></video>
+<video width="630" height="300" src="https://github.com/ShebMichel/my_video/blob/main/video_output.mp4"></video>
 
 
  
