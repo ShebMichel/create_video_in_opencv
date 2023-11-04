@@ -1,5 +1,6 @@
 # create_video_in_opencv
 Use OpenCV to create video from images.
+![Hooded_mountain_tanager_Buthraupis_montana_cucullata_Caldas-1024x683](https://github.com/ShebMichel/create_video_in_opencv/assets/45086441/c919a03d-3806-4659-8aac-87ef26a4b7ae)
 
 
 # Brief Description
