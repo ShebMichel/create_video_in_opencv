@@ -26,13 +26,9 @@ If you are up to this point of this post, you learned to create a video in OpenC
  - Using affine transform to calculate the parameters of zoom and pan, and create frames of the   video 
  -And finally, you write the frames into a video file using the VideoWriter object in OpenCV.
 
-# Results is shown below:
+# Video Result is shown below:
 
-[<img src="https://github.com/ShebMichel/create_video_in_opencv/video_output.mp4" width="50%">](https://github.com/ShebMichel/create_video_in_opencv "Video animation results")
+<video width="630" height="300" src="https://github.com/ShebMichel/create_video_in_opencv/video_output.mp4"></video>
 
-[![Watch the video](https://github.com/ShebMichel/create_video_in_opencv)](https://github.com/ShebMichel/create_video_in_opencv/video_output.mp4)
-
-[<img src="https://github.com/ShebMichel/create_video_in_opencv" width="600" height="300"
-/>](https://github.com/ShebMichel/create_video_in_opencv/video_output.mp4)
 
  
