@@ -28,5 +28,11 @@ If you are up to this point of this post, you learned to create a video in OpenC
 
 # Results is shown below:
 
-[<img src="video_output.mp4" width="50%">](https://github.com/ShebMichel/create_video_in_opencv/ "Video animation results")
+[<img src="https://github.com/ShebMichel/create_video_in_opencv/video_output.mp4" width="50%">](https://github.com/ShebMichel/create_video_in_opencv "Video animation results")
+
+[![Watch the video](https://github.com/ShebMichel/create_video_in_opencv)](https://github.com/ShebMichel/create_video_in_opencv/video_output.mp4)
+
+[<img src="https://github.com/ShebMichel/create_video_in_opencv" width="600" height="300"
+/>](https://github.com/ShebMichel/create_video_in_opencv/video_output.mp4)
+
  
