@@ -28,6 +28,11 @@ If you are up to this point of this post, you learned to create a video in OpenC
 
 # Video Result is shown below:
 
+
+https://github.com/ShebMichel/create_video_in_opencv/assets/45086441/c8021055-90e9-43a2-a370-69ab37265988
+
+
+
 <video width="630" height="300" src="https://github.com/ShebMichel/my_video/blob/main/video_output.mp4"></video>
 
 
