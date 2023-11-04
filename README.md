@@ -20,8 +20,13 @@ The main work focus on Ken Burns Effect and the second part is the writing of th
 
 If you are up to this point of this post, you learned to create a video in OpenCV, built from a sequence of frames (i.e., no audio). Also, you learned how to apply the Ken Burns effect to a picture, which in particular, you applied:
 
-Key takes:
+# Key takes:
  - The technique of cropping an image using numpy slicing syntax
  - The technique of resizing an image using OpenCV functions
- - Using affine transform to calculate the parameters of zoom and pan, and create frames of the  video 
- And finally, you write the frames into a video file using the VideoWriter object in OpenCV.
+ - Using affine transform to calculate the parameters of zoom and pan, and create frames of the   video 
+ -And finally, you write the frames into a video file using the VideoWriter object in OpenCV.
+
+# Results is shown below:
+
+[<img src="https://github.com/ShebMichel/create_video_in_opencv/blob/main/video_output.mp4" width="50%">](https://github.com/ShebMichel/create_video_in_opencv/ "Video animation results")
+ 
